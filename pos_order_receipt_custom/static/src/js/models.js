@@ -115,7 +115,6 @@ odoo.define('pos_order_receipt_custom.models', function (require) {
                 if (minutes.length < 2) {
                     minutes = '0' + minutes;
                 }
-
                 changes.time = {
                     'hours':   hours,
                     'minutes': minutes,
