@@ -6,7 +6,7 @@
     "summary": """Customize POS receipt view to your taste""",
     "category": "Point of Sale",
     # "live_test_url": "",
-    "images": ["images/pos_receipt_custom_main.png"],
+    "images": ["images/pos_receipt_custom_template_main.png"],
     "version": "10.0.1.0.0",
     "application": False,
 
